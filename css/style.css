@@ -1,0 +1,48 @@
+html {
+	background-image: url(../img/bk.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	background-color: #f9f9f9;
+	font-size: 24px;
+	padding: 24px;
+}
+
+.first {
+	background: url(../img/sea.jpg) no-repeat center;
+	background-size: 60%;
+	background-attachment: fixed;
+	height: 500px;
+}
+
+.second {
+	background: url(../img/secret.jpg) no-repeat center;
+	background-size: 60%;
+	background-attachment: fixed;
+	height: 580px;
+}
+
+.third {
+	background: url(../img/cat.jpg) no-repeat center;
+	background-size: 60%;
+	background-attachment: fixed;
+	height: 500px;
+}
+
+.fourth {
+	background: url(../img/burned.jpg) no-repeat center;
+	background-size: 60%;
+	background-attachment: fixed;
+	height: 500px;
+}
+
+.fifth {
+	background: url(../img/dive.jpg) no-repeat center;
+	background-size: 60%;
+	background-attachment: fixed;
+	height: 600px;
+}
