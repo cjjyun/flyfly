@@ -12,6 +12,16 @@ html {
 	padding: 24px;
 }
 
+.opening {
+	display: flex;
+}
+
+img {
+	max-width: 400px;
+	padding-top: 80px;
+	padding-right: 25px;
+}
+
 .first {
 	background: url(../img/sea.jpg) no-repeat center;
 	background-size: 60%;
